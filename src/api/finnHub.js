@@ -14,7 +14,7 @@ Documentation of API: https://finnhub.io/docs/api
 Notes: Chart Library - react-apexcharts
 */
 
-const TOKEN = 'cdgrihiad3i2r375fhb0cdgrihiad3i2r375fhbg'
+const TOKEN = ''
 
 export default axios.create(
   {
